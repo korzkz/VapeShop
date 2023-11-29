@@ -181,3 +181,10 @@ h3 {
     backdrop-filter: hue-rotate(90deg);
   }
 }
+.assort-btn {
+  background-color: #5d71dd;
+  color: white;
+  padding: 10px 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
